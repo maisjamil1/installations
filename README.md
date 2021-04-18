@@ -18,6 +18,4 @@ echo \
 `sudo apt-get update`
 - `sudo apt-get install docker-ce docker-ce-cli containerd.io`
 - `docker -v`
-- Verify that Docker Engine is installed correctly by running the hello-world image.
-
- `sudo docker run hello-world`
+- Verify that Docker Engine is installed correctly by running the hello-world image.: `sudo docker run hello-world`
