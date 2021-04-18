@@ -19,3 +19,4 @@ echo \
 - `sudo apt-get install docker-ce docker-ce-cli containerd.io`
 - `docker -v`
 - Verify that Docker Engine is installed correctly by running the hello-world image.: `sudo docker run hello-world`
+- P.S install docker extension on vscode
