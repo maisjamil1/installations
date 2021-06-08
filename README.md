@@ -9,13 +9,13 @@ https://www.youtube.com/watch?v=G7ffzC4S0A4&t=77s
 
 
 # Install Terminator 
-'''
+```
 sudo add-apt-repository ppa:gnome-terminator
 
 sudo apt-get update
 
 sudo apt-get install terminator
-'''
+```
 
 
 
