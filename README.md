@@ -25,7 +25,7 @@ https://askubuntu.com/questions/131823/how-to-make-zsh-the-default-shell
 # Installing OH MY ZSH
 - `sudo apt install curl wget git `
 - `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-- 
+- https://www.youtube.com/watch?v=ANxLmiLXtFM
 
 
 
