@@ -1,4 +1,25 @@
-# installations
+# Installations
+
+# Ubuntu Linux
+- to enter BIOS (Boot Menu) - ThinkPad
+https://support.lenovo.com/jo/en/solutions/ht500222-recommended-ways-to-enter-bios-boot-menu-thinkpad-thinkcentre-thinkstation
+
+- install Linux
+https://www.youtube.com/watch?v=G7ffzC4S0A4&t=77s
+
+
+# Install Terminator 
+'''
+sudo add-apt-repository ppa:gnome-terminator
+
+sudo apt-get update
+
+sudo apt-get install terminator
+'''
+
+
+
+
 # Docker
 -  `sudo apt-get update`
 ```
