@@ -1,4 +1,4 @@
-# Installations
+# Installations (9/6/2021)
 
 # Ubuntu Linux
 - to enter BIOS (Boot Menu) - ThinkPad
