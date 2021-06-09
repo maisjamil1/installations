@@ -28,7 +28,9 @@ https://askubuntu.com/questions/131823/how-to-make-zsh-the-default-shell
 - https://www.youtube.com/watch?v=ANxLmiLXtFM
 - https://qirolab.com/posts/install-and-setup-oh-my-zsh-on-ubuntu-system
 
-
+# redis
+https://redis.io/download
+https://www.youtube.com/watch?v=CLqZlDJRPFQ
 
 # Docker
 -  `sudo apt-get update`
