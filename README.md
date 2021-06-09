@@ -31,6 +31,8 @@ https://askubuntu.com/questions/131823/how-to-make-zsh-the-default-shell
 # redis
 - https://redis.io/download
 - https://www.youtube.com/watch?v=CLqZlDJRPFQ
+to start redis service
+$ sudo service redis start
 
 # Docker
 -  `sudo apt-get update`
